@@ -10,5 +10,5 @@ building        nyx / flow / linklabs
 ```
 
 <p align="center">
-  <img src="https://count.getloli.com/@:aeivrix" alt=":rule34 nums=13404">
+  <img src="https://count.getloli.com/@:aeivrix" alt=":rule34">
 </p>
