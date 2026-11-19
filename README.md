@@ -1,5 +1,4 @@
 ```text
-gh
 > hi, i am aeivrix
 
 stage           20 / cs undergrad
