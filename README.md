@@ -1,4 +1,4 @@
-![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=pill&size=xl&color=ffffff&icon=rust)
+![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=md&color=ffffff&icon=rust)
 
 ```text
 > hi, i am aeivrix
