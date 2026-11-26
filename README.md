@@ -1,7 +1,7 @@
-![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=md&color=ffffff&icon=rust)
-![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=md&color=ffffff&icon=python)
-![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=md&color=ffffff&icon=typescript)
-![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=md&color=ffffff&icon=astro)
+![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=sm&color=ffffff&icon=rust)
+![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=sm&color=ffffff&icon=python)
+![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=sm&color=ffffff&icon=typescript)
+![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=sm&color=ffffff&icon=astro)
 ![badge](https://gitbadger.vercel.app/api/badge?label=&value=&style=glass&size=sm&color=ffffff&icon=astro)
 ```text
 > hi, i am aeivrix
